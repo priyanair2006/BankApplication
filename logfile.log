@@ -1,0 +1,130 @@
+2020-04-07 19:08:17,819 INFO  [TestBase] Driver initiated 
+2020-04-07 19:08:18,185 INFO  [TestBase] user name entered 
+2020-04-07 19:08:18,340 INFO  [TestBase] password entered 
+2020-04-07 19:08:35,618 INFO  [TestBase] button clicked 
+2020-04-07 19:08:35,618 INFO  [TestBase] login successful 
+2020-04-09 09:33:07,827 INFO  [TestBase] Driver initiated 
+2020-04-09 09:33:08,742 INFO  [TestBase] user name entered 
+2020-04-09 09:33:08,898 INFO  [TestBase] password entered 
+2020-04-09 09:33:15,491 INFO  [TestBase] button clicked 
+2020-04-09 09:33:15,491 INFO  [TestBase] login successful 
+2020-04-09 11:04:04,355 INFO  [TestBase] Driver initiated 
+2020-04-09 11:04:04,870 INFO  [TestBase] user name entered 
+2020-04-09 11:04:04,992 INFO  [TestBase] password entered 
+2020-04-09 11:04:10,384 INFO  [TestBase] button clicked 
+2020-04-09 11:04:10,384 INFO  [TestBase] login successful 
+2020-04-09 11:04:29,083 INFO  [TestBase] Driver initiated 
+2020-04-09 11:04:29,525 INFO  [TestBase] user name entered 
+2020-04-09 11:04:29,674 INFO  [TestBase] password entered 
+2020-04-09 11:04:40,471 INFO  [TestBase] button clicked 
+2020-04-09 11:04:40,471 INFO  [TestBase] login successful 
+2020-04-09 11:10:15,804 INFO  [TestBase] Driver initiated 
+2020-04-09 11:10:16,081 INFO  [TestBase] user name entered 
+2020-04-09 11:10:16,220 INFO  [TestBase] password entered 
+2020-04-09 11:10:23,265 INFO  [TestBase] button clicked 
+2020-04-09 11:10:23,266 INFO  [TestBase] login successful 
+2020-04-09 11:12:55,562 INFO  [TestBase] Driver initiated 
+2020-04-09 11:12:55,932 INFO  [TestBase] user name entered 
+2020-04-09 11:12:56,072 INFO  [TestBase] password entered 
+2020-04-09 11:13:01,873 INFO  [TestBase] button clicked 
+2020-04-09 11:13:01,874 INFO  [TestBase] login successful 
+2020-04-09 11:14:05,156 INFO  [TestBase] Driver initiated 
+2020-04-09 11:14:05,441 INFO  [TestBase] user name entered 
+2020-04-09 11:14:05,562 INFO  [TestBase] password entered 
+2020-04-09 11:14:12,318 INFO  [TestBase] button clicked 
+2020-04-09 11:14:12,318 INFO  [TestBase] login successful 
+2020-04-09 11:14:59,456 INFO  [TestBase] Driver initiated 
+2020-04-09 11:14:59,774 INFO  [TestBase] user name entered 
+2020-04-09 11:14:59,908 INFO  [TestBase] password entered 
+2020-04-09 11:15:06,416 INFO  [TestBase] button clicked 
+2020-04-09 11:15:06,417 INFO  [TestBase] login successful 
+2020-04-09 11:24:39,994 INFO  [TestBase] Driver initiated 
+2020-04-09 11:24:40,259 INFO  [TestBase] user name entered 
+2020-04-09 11:24:40,390 INFO  [TestBase] password entered 
+2020-04-09 11:24:49,924 INFO  [TestBase] button clicked 
+2020-04-09 11:24:49,927 INFO  [TestBase] login successful 
+2020-04-09 11:26:03,499 INFO  [TestBase] Driver initiated 
+2020-04-09 11:26:03,805 INFO  [TestBase] user name entered 
+2020-04-09 11:26:03,928 INFO  [TestBase] password entered 
+2020-04-09 11:26:16,967 INFO  [TestBase] button clicked 
+2020-04-09 11:26:16,967 INFO  [TestBase] login successful 
+2020-04-09 11:28:09,770 INFO  [TestBase] Driver initiated 
+2020-04-09 11:28:10,124 INFO  [TestBase] user name entered 
+2020-04-09 11:28:10,284 INFO  [TestBase] password entered 
+2020-04-09 11:28:24,741 INFO  [TestBase] button clicked 
+2020-04-09 11:28:24,742 INFO  [TestBase] login successful 
+2020-04-09 11:32:50,064 INFO  [TestBase] Driver initiated 
+2020-04-09 11:32:50,427 INFO  [TestBase] user name entered 
+2020-04-09 11:32:50,588 INFO  [TestBase] password entered 
+2020-04-09 11:33:06,223 INFO  [TestBase] button clicked 
+2020-04-09 11:33:06,223 INFO  [TestBase] login successful 
+2020-04-09 11:34:44,184 INFO  [TestBase] Driver initiated 
+2020-04-09 11:34:44,477 INFO  [TestBase] user name entered 
+2020-04-09 11:34:44,608 INFO  [TestBase] password entered 
+2020-04-09 11:34:52,204 INFO  [TestBase] button clicked 
+2020-04-09 11:34:52,204 INFO  [TestBase] login successful 
+2020-04-09 11:39:59,904 INFO  [TestBase] Driver initiated 
+2020-04-09 11:40:00,176 INFO  [TestBase] user name entered 
+2020-04-09 11:40:00,299 INFO  [TestBase] password entered 
+2020-04-09 11:40:13,694 INFO  [TestBase] button clicked 
+2020-04-09 11:40:13,694 INFO  [TestBase] login successful 
+2020-04-09 11:43:21,808 INFO  [TestBase] Driver initiated 
+2020-04-09 11:43:22,073 INFO  [TestBase] user name entered 
+2020-04-09 11:43:22,192 INFO  [TestBase] password entered 
+2020-04-09 11:43:32,229 INFO  [TestBase] button clicked 
+2020-04-09 11:43:32,229 INFO  [TestBase] login successful 
+2020-04-09 11:45:01,343 INFO  [TestBase] Driver initiated 
+2020-04-09 11:45:01,630 INFO  [TestBase] user name entered 
+2020-04-09 11:45:01,755 INFO  [TestBase] password entered 
+2020-04-09 11:45:10,245 INFO  [TestBase] button clicked 
+2020-04-09 11:45:10,245 INFO  [TestBase] login successful 
+2020-04-09 11:46:33,170 INFO  [TestBase] Driver initiated 
+2020-04-09 11:46:33,656 INFO  [TestBase] user name entered 
+2020-04-09 11:46:33,772 INFO  [TestBase] password entered 
+2020-04-09 11:46:43,172 INFO  [TestBase] button clicked 
+2020-04-09 11:46:43,172 INFO  [TestBase] login successful 
+2020-04-09 11:46:54,413 INFO  [TestBase] Driver initiated 
+2020-04-09 11:46:54,633 INFO  [TestBase] user name entered 
+2020-04-09 11:46:54,748 INFO  [TestBase] password entered 
+2020-04-09 11:47:02,773 INFO  [TestBase] button clicked 
+2020-04-09 11:47:02,773 INFO  [TestBase] login successful 
+2020-04-09 16:04:49,801 INFO  [TestBase] Driver initiated 
+2020-04-09 16:04:50,392 INFO  [TestBase] user name entered 
+2020-04-09 16:04:50,552 INFO  [TestBase] password entered 
+2020-04-09 16:05:03,276 INFO  [TestBase] button clicked 
+2020-04-09 16:05:03,276 INFO  [TestBase] login successful 
+2020-04-09 16:05:45,126 INFO  [TestBase] Driver initiated 
+2020-04-09 16:05:45,547 INFO  [TestBase] user name entered 
+2020-04-09 16:05:45,692 INFO  [TestBase] password entered 
+2020-04-09 16:05:53,920 INFO  [TestBase] button clicked 
+2020-04-09 16:05:53,921 INFO  [TestBase] login successful 
+2020-04-09 16:07:17,814 INFO  [TestBase] Driver initiated 
+2020-04-09 16:07:18,235 INFO  [TestBase] user name entered 
+2020-04-09 16:07:18,377 INFO  [TestBase] password entered 
+2020-04-09 16:07:25,015 INFO  [TestBase] button clicked 
+2020-04-09 16:07:25,015 INFO  [TestBase] login successful 
+2020-04-09 16:07:50,264 INFO  [TestBase] Driver initiated 
+2020-04-09 16:07:50,519 INFO  [TestBase] user name entered 
+2020-04-09 16:07:50,726 INFO  [TestBase] password entered 
+2020-04-09 16:07:59,207 INFO  [TestBase] button clicked 
+2020-04-09 16:07:59,207 INFO  [TestBase] login successful 
+2020-04-09 16:12:22,625 INFO  [TestBase] Driver initiated 
+2020-04-09 16:12:23,022 INFO  [TestBase] user name entered 
+2020-04-09 16:12:23,156 INFO  [TestBase] password entered 
+2020-04-09 16:12:31,131 INFO  [TestBase] button clicked 
+2020-04-09 16:12:31,132 INFO  [TestBase] login successful 
+2020-04-09 16:12:46,093 INFO  [TestBase] Driver initiated 
+2020-04-09 16:12:46,406 INFO  [TestBase] user name entered 
+2020-04-09 16:12:46,563 INFO  [TestBase] password entered 
+2020-04-09 16:12:53,732 INFO  [TestBase] button clicked 
+2020-04-09 16:12:53,732 INFO  [TestBase] login successful 
+2020-04-09 16:14:14,172 INFO  [TestBase] Driver initiated 
+2020-04-09 16:14:14,603 INFO  [TestBase] user name entered 
+2020-04-09 16:14:14,729 INFO  [TestBase] password entered 
+2020-04-09 16:14:29,139 INFO  [TestBase] button clicked 
+2020-04-09 16:14:29,139 INFO  [TestBase] login successful 
+2020-04-09 16:14:44,602 INFO  [TestBase] Driver initiated 
+2020-04-09 16:14:44,857 INFO  [TestBase] user name entered 
+2020-04-09 16:14:45,047 INFO  [TestBase] password entered 
+2020-04-09 16:15:01,020 INFO  [TestBase] button clicked 
+2020-04-09 16:15:01,021 INFO  [TestBase] login successful 

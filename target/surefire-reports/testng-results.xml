@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Banking" duration-ms="83600" started-at="2020-04-09T10:44:00Z" finished-at="2020-04-09T10:45:23Z">
+    <groups>
+    </groups>
+    <test name="SignIn" duration-ms="83600" started-at="2020-04-09T10:44:00Z" finished-at="2020-04-09T10:45:23Z">
+      <class name="com.bank.qa.test.LoginTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.bank.qa.test.LoginTest@6f3b5d16]" name="setup" is-config="true" duration-ms="13843" started-at="2020-04-09T10:44:00Z" finished-at="2020-04-09T10:44:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginBank()[pri:0, instance:com.bank.qa.test.LoginTest@6f3b5d16]" name="LoginBank" duration-ms="15369" started-at="2020-04-09T10:44:14Z" finished-at="2020-04-09T10:44:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginBank -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bank.qa.test.LoginTest@6f3b5d16]" name="tearDown" is-config="true" duration-ms="610" started-at="2020-04-09T10:44:29Z" finished-at="2020-04-09T10:44:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bank.qa.test.LoginTest -->
+      <class name="com.bank.qa.test.HomeTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.bank.qa.test.HomeTest@78b1cc93]" name="setup" is-config="true" duration-ms="30762" started-at="2020-04-09T10:44:30Z" finished-at="2020-04-09T10:45:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="HomePageaccess()[pri:0, instance:com.bank.qa.test.HomeTest@78b1cc93]" name="HomePageaccess" duration-ms="22137" started-at="2020-04-09T10:45:01Z" finished-at="2020-04-09T10:45:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageaccess -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bank.qa.test.HomeTest@78b1cc93]" name="tearDown" is-config="true" duration-ms="627" started-at="2020-04-09T10:45:23Z" finished-at="2020-04-09T10:45:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bank.qa.test.HomeTest -->
+    </test> <!-- SignIn -->
+  </suite> <!-- Banking -->
+</testng-results>

@@ -1,0 +1,7 @@
+com\bank\qa\base\TestBase.class
+com\bank\qa\utils\GetCurrenttimeStamp.class
+com\bank\qa\Listner\Listerevent.class
+com\bank\qa\pages\HomePage.class
+com\bank\qa\utils\GetSS.class
+com\bank\qa\utils\ReadFile.class
+com\bank\qa\pages\LoginPage.class
